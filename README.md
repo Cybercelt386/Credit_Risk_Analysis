@@ -59,3 +59,4 @@ The purpouse of this Analysis was to determine the risk of a credit accout going
 
 
 ## Summary and conclusion
+With a perfect accuracy score Random forest clasifier and EasyEnsemble are perfect models for this my recommondation for this data set is RandomForest because it will be easier to add more variables without losing too much accuracy however EasyEnsemble is also highly accurate and will work just as well under current conditions.
